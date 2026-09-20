@@ -1,12 +1,12 @@
 # Hi, I'm Tom
 
-A high school student and self-taught developer interested in Linux, game development, cybersecurity, embedded systems, XR and local AI.
+A high school student and self-taught developer interested in Linux, web and game development, cybersecurity, embedded systems, XR and local AI.
 
-I prefer writing vanilla code instead of relying on frameworks, because it helps me understand how things really work.
+I prefer writing vanilla code instead of relying on frameworks and libraries, because it helps me understand how things really work.
 
 ## What I'm working on
 
-- Expanding my knowledge of **Python**, **JavaScript**, **C**, **C++**, **Kotlin** and other languages.
+- Expanding my knowledge of **Python**, **JavaScript**, **C**, **C++**, **Kotlin**, **Flutter** and other languages.
 - Building projects with [microcontrollers](https://github.com/ttomf/microfast).
 - Streaming PC VR games to my [phone](https://github.com/ttomf/monado-phone) over Wi-Fi, with 6DOF and hand tracking.
 - Training [local AI](https://github.com/ttomf/neural-network) models and experimenting with LLM fine-tuning.
