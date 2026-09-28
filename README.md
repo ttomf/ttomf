@@ -21,4 +21,5 @@ And I use Arch btw :D
 ## Some Stats
 
 ![Most used languages](https://github-stats-extended.vercel.app/api/top-langs?username=ttomf&layout=compact&langs_count=8)
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=60277&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ttomf&card_height=190)
